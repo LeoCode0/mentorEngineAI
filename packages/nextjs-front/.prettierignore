@@ -1,0 +1,8 @@
+# Ignore artifacts:
+dist
+public
+.idea
+.vscode
+
+# Ignore all HTML files:
+*.html
